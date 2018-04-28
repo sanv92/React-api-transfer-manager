@@ -1,6 +1,6 @@
 {
   "name": "api-transfer-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Api Transfer Manager (wrapper for action requests)",
   "main": "dist/index.js",
   "scripts": {
