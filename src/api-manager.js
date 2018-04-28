@@ -12,7 +12,7 @@ export class ApiManager {
 
     const fullOptions = {
       method,
-      withCredentials: true,
+      withCredentials: false,
       headers: { 'content-type': 'application/json' },
       data: body,
       url: `${this.baseUri}${url}`,
