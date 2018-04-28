@@ -1,5 +1,5 @@
 {
-  "name": "react-api-transfer-manager",
+  "name": "api-transfer-manager",
   "version": "1.0.0",
   "description": "React Api Transfer Manager (wrapper for action requests)",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:SanderV1992/Styled-Transition-Group.git"
+    "url": "git@github.com:SanderV1992/React-api-transfer-manager"
   },
   "author": "sv92",
   "license": "ISC",
